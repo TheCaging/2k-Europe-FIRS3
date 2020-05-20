@@ -9,6 +9,12 @@ I have a lot of mods on, but will also be removing all of them except only the n
 
 This is also meant for multiplayer games because of how large it is so have fun!
 
+V0.11{
+-Actually Finished Ionian islands
+-Finished Greek Islands
+-Finished Peleponese Pininsula
+}
+
 V0.1{
 -Finished Sicily
 -Finished Ionian Islands
