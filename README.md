@@ -9,6 +9,11 @@ I have a lot of mods on, but will also be removing all of them except only the n
 
 This is also meant for multiplayer games because of how large it is so have fun!
 
+V1.3{
+-Added More Capitals with some flurish
+-Started on Ireland
+}
+
 V1.2{
 -Added a Few Capitals
 }
