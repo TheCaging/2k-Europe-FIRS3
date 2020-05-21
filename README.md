@@ -9,6 +9,14 @@ I have a lot of mods on, but will also be removing all of them except only the n
 
 This is also meant for multiplayer games because of how large it is so have fun!
 
+Also Thanks to TinyMusic for the map, it would have been impossible if he hadn't uploaded it to BaNNaNas
+
+V1.31{
+-Changed file names
+-Did some house keeping
+-Added Name of Original Heightmap Creator
+}
+
 V1.3{
 -Added More Capitals with some flurish
 -Started on Ireland
