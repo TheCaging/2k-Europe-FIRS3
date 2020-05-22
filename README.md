@@ -23,30 +23,50 @@ Thanks to,
 
 ### Screenshots
 
-![The Island of Crete, not fully on the heightmap. Nevertheless theres enough it will do.](images/crete.png)
+![](images/crete.png)
+The Island of Crete, not fully on the heightmap. Nevertheless theres enough it will do.
 
-V1.31{
+![](images/sardiniaCorsica.png)
+The two islands of corsica and sardinia respectivley, I might revise and remove some of the towns it may be too crowded for tains.
+
+![](images/sicily.png)
+Wil be reworked as there are too many trees, my first part of the project so it was to be suspected it would not come out the best!
+
+![](images/mallorca.png)
+The small island of Mallorca off the coast of Spain, my favorite part of the project so far.
+
+![](images/part1Greece.png)
+The Greek islands are quite cool with their verticallity, just hope im giving enough room for trains.
+
+## Changelog
+
+Alpha V1.32{
++Halfway done with Ireland
++More house keeping
++Added Screenshots and Descriptions
+
+Alpha V1.31{
 -Changed file names
 -Did some house keeping
 -Added Name of Original Heightmap Creator
 }
 
-V1.3{
+Alpha V1.3{
 -Added More Capitals with some flurish
 -Started on Ireland
 }
 
-V1.2{
+Alpha V1.2{
 -Added a Few Capitals
 }
 
-V0.11{
+Alpha V0.11{
 -Actually Finished Ionian islands
 -Finished Greek Islands
 -Finished Peleponese Pininsula
 }
 
-V0.1{
+Alpha V0.1{
 -Finished Sicily
 -Finished Ionian Islands
 -Finished Crete
