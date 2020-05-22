@@ -38,7 +38,16 @@ The small island of Mallorca off the coast of Spain, my favorite part of the pro
 ![](images/part1Greece.png)
 The Greek islands are quite cool with their verticallity, just hope im giving enough room for trains.
 
+![](images/ireland.png)
+Finished Ireland, I personally think it looks great, may comeback and touch it up a bit. You can barely see whales off in the distance.
+
 ## Changelog
+
+Alpha V1.34{
++Added Ireland Screenshot
++Sort of finished wales, may comeback to it when i finish rest of UK
++Partly done with Cornwall
+}
 
 Alpha V1.33{
 +Finished Ireland
