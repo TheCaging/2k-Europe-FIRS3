@@ -1,7 +1,7 @@
 # 2k-Europe-FIRS3
 A 2k by 2k Openttd Map of Europe with FIRS3 Support
 
-### UK Ireland Update!
+### UK Ireland Update! - Alpha V1.4
 
 Finally, the UK and Ireland are finished. They are both fully playable, so have fun!
 
@@ -52,6 +52,11 @@ Finished England, Cornwall, and Wales!
 I love the look of the rock to denote the mountains, probably makes it very hard to build up here tho.
 
 ## Changelog
+
+Alpha V1.41{
++Switzerland Finished Almost
++Northern Italy Finished
+}
 
 Alpha V1.4 - UK and Ireland Update!{
 +UK fully playable

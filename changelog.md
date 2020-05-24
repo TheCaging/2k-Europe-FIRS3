@@ -1,5 +1,10 @@
 ### This is a longer Changelog File containing all the changes included and not included in the Readme
 
+Alpha V1.41{
++Switzerland Finished Almost
++Northern Italy Finished
+}
+
 Alpha V1.4 - UK and Ireland Update!{
 +UK fully playable
 +Ireland Fully Playable
