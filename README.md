@@ -1,6 +1,10 @@
 # 2k-Europe-FIRS3
 A 2k by 2k Openttd Map of Europe with FIRS3 Support
 
+### UK Ireland Update!
+
+Finally, the UK and Ireland are finished. They are both fully playable, so have fun!
+
 ### Introduction
 
 Hello, This is my first Openttd Scenario so give me a little break. Of course any suggestions are nice.
@@ -41,7 +45,18 @@ The Greek islands are quite cool with their verticallity, just hope im giving en
 ![](images/ireland.png)
 Finished Ireland, I personally think it looks great, may comeback and touch it up a bit. You can barely see whales off in the distance.
 
+![](images/englandWhalesCornwall.png)
+Finished England, Cornwall, and Wales!
+
+![](images/scotland.png)
+I love the look of the rock to denote the mountains, probably makes it very hard to build up here tho.
+
 ## Changelog
+
+Alpha V1.4 - UK and Ireland Update!{
++UK fully playable
++Ireland Fully Playable
+}
 
 Alpha V1.35{
 +1/3 the way done with the UK
@@ -66,25 +81,4 @@ Alpha V1.31{
 -Changed file names
 -Did some house keeping
 -Added Name of Original Heightmap Creator
-}
-
-Alpha V1.3{
--Added More Capitals with some flurish
--Started on Ireland
-}
-
-Alpha V1.2{
--Added a Few Capitals
-}
-
-Alpha V0.11{
--Actually Finished Ionian islands
--Finished Greek Islands
--Finished Peleponese Pininsula
-}
-
-Alpha V0.1{
--Finished Sicily
--Finished Ionian Islands
--Finished Crete
 }

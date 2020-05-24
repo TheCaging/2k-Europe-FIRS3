@@ -1,5 +1,10 @@
 ### This is a longer Changelog File containing all the changes included and not included in the Readme
 
+Alpha V1.4 - UK and Ireland Update!{
++UK fully playable
++Ireland Fully Playable
+}
+
 Alpha V1.35{
 +1/3 the way done with the UK
 }
