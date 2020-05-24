@@ -1,4 +1,8 @@
-### This is a longer Changelog File containing all the changes not included in the Readme
+### This is a longer Changelog File containing all the changes included and not included in the Readme
+
+Alpha V1.35{
++1/3 the way done with the UK
+}
 
 Alpha V1.34{
 +Added Ireland Screenshot
